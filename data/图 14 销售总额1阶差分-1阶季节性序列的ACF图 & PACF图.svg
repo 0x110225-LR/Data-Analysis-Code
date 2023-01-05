@@ -1,0 +1,1532 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="716pt" height="487.935625pt" viewBox="0 0 716 487.935625" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2023-01-05T14:42:45.383102</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.5.3, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 487.935625 
+L 716 487.935625 
+L 716 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 39.2 223.378125 
+L 708.8 223.378125 
+L 708.8 21.778125 
+L 39.2 21.778125 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="PolyCollection_1">
+    <path d="M 88.082645 74.661727 
+L 88.082645 170.494523 
+L 143.421488 184.396085 
+L 180.31405 185.144413 
+L 217.206612 185.220012 
+L 254.099174 185.454919 
+L 290.991736 188.14921 
+L 327.884298 195.204165 
+L 364.77686 198.769465 
+L 401.669421 199.190091 
+L 438.561983 199.359611 
+L 475.454545 200.043729 
+L 512.347107 201.081281 
+L 549.239669 201.464523 
+L 586.132231 201.678255 
+L 623.024793 201.691241 
+L 678.363636 201.697616 
+L 678.363636 43.458634 
+L 678.363636 43.458634 
+L 623.024793 43.465009 
+L 586.132231 43.477995 
+L 549.239669 43.691727 
+L 512.347107 44.074969 
+L 475.454545 45.112521 
+L 438.561983 45.796639 
+L 401.669421 45.966159 
+L 364.77686 46.386785 
+L 327.884298 49.952085 
+L 290.991736 57.00704 
+L 254.099174 59.701331 
+L 217.206612 59.936238 
+L 180.31405 60.011837 
+L 143.421488 60.760165 
+L 88.082645 74.661727 
+z
+" clip-path="url(#p14b51058a6)" style="fill: #1f77b4; fill-opacity: 0.25"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="maf985933e5" d="M 0 0 
+L 0 3.5 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#maf985933e5" x="69.636364" y="223.378125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <!-- 0.0 -->
+      <g transform="translate(62.136364 237.526562)scale(0.1 -0.1)">
+       <defs>
+        <path id="SimSun-30" d="M 1600 4225 
+Q 1250 4225 1012 3687 
+Q 775 3150 775 2250 
+Q 775 1300 1012 775 
+Q 1250 250 1600 250 
+Q 1975 250 2187 775 
+Q 2400 1300 2400 2250 
+Q 2400 3150 2200 3687 
+Q 2000 4225 1600 4225 
+z
+M 1600 50 
+Q 1050 50 675 625 
+Q 300 1200 300 2250 
+Q 300 3225 662 3825 
+Q 1025 4425 1600 4425 
+Q 2150 4425 2512 3850 
+Q 2875 3275 2875 2250 
+Q 2875 1225 2512 637 
+Q 2150 50 1600 50 
+z
+" transform="scale(0.015625)"/>
+        <path id="SimSun-2e" d="M 800 25 
+Q 650 25 537 125 
+Q 425 225 425 400 
+Q 425 575 537 675 
+Q 650 775 800 775 
+Q 950 775 1062 662 
+Q 1175 550 1175 400 
+Q 1175 225 1062 125 
+Q 950 25 800 25 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#SimSun-30"/>
+       <use xlink:href="#SimSun-2e" x="50"/>
+       <use xlink:href="#SimSun-30" x="100"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#maf985933e5" x="161.867769" y="223.378125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <!-- 2.5 -->
+      <g transform="translate(154.367769 237.526562)scale(0.1 -0.1)">
+       <defs>
+        <path id="SimSun-32" d="M 2325 3325 
+Q 2325 3775 2125 4012 
+Q 1925 4250 1525 4250 
+Q 1225 4250 1012 4087 
+Q 800 3925 800 3675 
+Q 800 3525 900 3425 
+Q 975 3325 975 3225 
+Q 975 3100 912 3037 
+Q 850 2975 725 2975 
+Q 575 2975 487 3062 
+Q 400 3150 400 3350 
+Q 400 3875 775 4150 
+Q 1150 4425 1575 4425 
+Q 2175 4425 2462 4125 
+Q 2750 3825 2750 3375 
+Q 2750 3075 2612 2775 
+Q 2475 2475 2175 2200 
+Q 1450 1500 1062 1062 
+Q 675 625 600 475 
+L 2075 475 
+Q 2300 475 2450 650 
+Q 2600 825 2650 1175 
+L 2800 1175 
+L 2650 100 
+L 325 100 
+L 325 425 
+Q 450 650 737 1000 
+Q 1025 1350 1500 1825 
+Q 1925 2250 2125 2625 
+Q 2325 3000 2325 3325 
+z
+" transform="scale(0.015625)"/>
+        <path id="SimSun-35" d="M 1725 2850 
+Q 2200 2850 2500 2487 
+Q 2800 2125 2800 1525 
+Q 2800 850 2487 450 
+Q 2175 50 1525 50 
+Q 1075 50 725 312 
+Q 375 575 375 950 
+Q 375 1100 462 1212 
+Q 550 1325 700 1325 
+Q 850 1325 900 1225 
+Q 950 1125 950 1050 
+Q 950 900 875 825 
+Q 800 725 800 625 
+Q 800 425 1037 325 
+Q 1275 225 1550 225 
+Q 1950 225 2162 550 
+Q 2375 875 2375 1475 
+Q 2375 1975 2187 2287 
+Q 2000 2600 1625 2600 
+Q 1350 2600 1150 2500 
+Q 950 2400 775 2075 
+L 550 2100 
+L 675 4375 
+L 2725 4375 
+L 2650 4000 
+L 850 4000 
+L 750 2350 
+Q 1000 2700 1237 2775 
+Q 1475 2850 1725 2850 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#SimSun-32"/>
+       <use xlink:href="#SimSun-2e" x="50"/>
+       <use xlink:href="#SimSun-35" x="100"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#maf985933e5" x="254.099174" y="223.378125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <!-- 5.0 -->
+      <g transform="translate(246.599174 237.526562)scale(0.1 -0.1)">
+       <use xlink:href="#SimSun-35"/>
+       <use xlink:href="#SimSun-2e" x="50"/>
+       <use xlink:href="#SimSun-30" x="100"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#maf985933e5" x="346.330579" y="223.378125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <!-- 7.5 -->
+      <g transform="translate(338.830579 237.526562)scale(0.1 -0.1)">
+       <defs>
+        <path id="SimSun-37" d="M 2825 4200 
+Q 2300 3350 1987 2537 
+Q 1675 1725 1675 1125 
+Q 1675 1025 1700 850 
+Q 1700 650 1700 400 
+Q 1700 200 1637 125 
+Q 1575 50 1425 50 
+Q 1300 50 1212 137 
+Q 1125 225 1125 450 
+Q 1125 925 1337 1625 
+Q 1550 2325 2475 4000 
+L 1225 4000 
+Q 950 4000 787 3825 
+Q 625 3650 550 3300 
+L 400 3325 
+L 575 4375 
+L 2825 4375 
+L 2825 4200 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#SimSun-37"/>
+       <use xlink:href="#SimSun-2e" x="50"/>
+       <use xlink:href="#SimSun-35" x="100"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_5">
+      <g>
+       <use xlink:href="#maf985933e5" x="438.561983" y="223.378125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <!-- 10.0 -->
+      <g transform="translate(428.561983 237.526562)scale(0.1 -0.1)">
+       <defs>
+        <path id="SimSun-31" d="M 1825 4450 
+L 1825 650 
+Q 1825 450 1950 350 
+Q 2075 250 2300 250 
+L 2550 250 
+L 2550 100 
+L 725 100 
+L 725 250 
+L 950 250 
+Q 1200 250 1312 350 
+Q 1425 450 1425 650 
+L 1425 3675 
+Q 1425 3775 1362 3837 
+Q 1300 3900 1175 3900 
+L 725 3900 
+L 725 4050 
+L 950 4050 
+Q 1250 4050 1437 4150 
+Q 1625 4250 1725 4450 
+L 1825 4450 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#SimSun-31"/>
+       <use xlink:href="#SimSun-30" x="50"/>
+       <use xlink:href="#SimSun-2e" x="100"/>
+       <use xlink:href="#SimSun-30" x="150"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#maf985933e5" x="530.793388" y="223.378125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <!-- 12.5 -->
+      <g transform="translate(520.793388 237.526562)scale(0.1 -0.1)">
+       <use xlink:href="#SimSun-31"/>
+       <use xlink:href="#SimSun-32" x="50"/>
+       <use xlink:href="#SimSun-2e" x="100"/>
+       <use xlink:href="#SimSun-35" x="150"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_7">
+      <g>
+       <use xlink:href="#maf985933e5" x="623.024793" y="223.378125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <!-- 15.0 -->
+      <g transform="translate(613.024793 237.526562)scale(0.1 -0.1)">
+       <use xlink:href="#SimSun-31"/>
+       <use xlink:href="#SimSun-35" x="50"/>
+       <use xlink:href="#SimSun-2e" x="100"/>
+       <use xlink:href="#SimSun-30" x="150"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_8">
+      <defs>
+       <path id="ma350930d78" d="M 0 0 
+L -3.5 0 
+" style="stroke: #000000; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#ma350930d78" x="39.2" y="223.378125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <!-- -1.00 -->
+      <g transform="translate(7.2 226.952344)scale(0.1 -0.1)">
+       <defs>
+        <path id="SimSun-2d" d="M 200 2225 
+L 200 2450 
+L 2975 2450 
+L 2975 2225 
+L 200 2225 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#SimSun-2d"/>
+       <use xlink:href="#SimSun-31" x="50"/>
+       <use xlink:href="#SimSun-2e" x="100"/>
+       <use xlink:href="#SimSun-30" x="150"/>
+       <use xlink:href="#SimSun-30" x="200"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_9">
+      <g>
+       <use xlink:href="#ma350930d78" x="39.2" y="198.178125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <!-- -0.75 -->
+      <g transform="translate(7.2 201.752344)scale(0.1 -0.1)">
+       <use xlink:href="#SimSun-2d"/>
+       <use xlink:href="#SimSun-30" x="50"/>
+       <use xlink:href="#SimSun-2e" x="100"/>
+       <use xlink:href="#SimSun-37" x="150"/>
+       <use xlink:href="#SimSun-35" x="200"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#ma350930d78" x="39.2" y="172.978125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <!-- -0.50 -->
+      <g transform="translate(7.2 176.552344)scale(0.1 -0.1)">
+       <use xlink:href="#SimSun-2d"/>
+       <use xlink:href="#SimSun-30" x="50"/>
+       <use xlink:href="#SimSun-2e" x="100"/>
+       <use xlink:href="#SimSun-35" x="150"/>
+       <use xlink:href="#SimSun-30" x="200"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_11">
+      <g>
+       <use xlink:href="#ma350930d78" x="39.2" y="147.778125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_11">
+      <!-- -0.25 -->
+      <g transform="translate(7.2 151.352344)scale(0.1 -0.1)">
+       <use xlink:href="#SimSun-2d"/>
+       <use xlink:href="#SimSun-30" x="50"/>
+       <use xlink:href="#SimSun-2e" x="100"/>
+       <use xlink:href="#SimSun-32" x="150"/>
+       <use xlink:href="#SimSun-35" x="200"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#ma350930d78" x="39.2" y="122.578125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_12">
+      <!-- 0.00 -->
+      <g transform="translate(12.2 126.152344)scale(0.1 -0.1)">
+       <use xlink:href="#SimSun-30"/>
+       <use xlink:href="#SimSun-2e" x="50"/>
+       <use xlink:href="#SimSun-30" x="100"/>
+       <use xlink:href="#SimSun-30" x="150"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_13">
+      <g>
+       <use xlink:href="#ma350930d78" x="39.2" y="97.378125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_13">
+      <!-- 0.25 -->
+      <g transform="translate(12.2 100.952344)scale(0.1 -0.1)">
+       <use xlink:href="#SimSun-30"/>
+       <use xlink:href="#SimSun-2e" x="50"/>
+       <use xlink:href="#SimSun-32" x="100"/>
+       <use xlink:href="#SimSun-35" x="150"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_14">
+      <g>
+       <use xlink:href="#ma350930d78" x="39.2" y="72.178125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_14">
+      <!-- 0.50 -->
+      <g transform="translate(12.2 75.752344)scale(0.1 -0.1)">
+       <use xlink:href="#SimSun-30"/>
+       <use xlink:href="#SimSun-2e" x="50"/>
+       <use xlink:href="#SimSun-35" x="100"/>
+       <use xlink:href="#SimSun-30" x="150"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_15">
+      <g>
+       <use xlink:href="#ma350930d78" x="39.2" y="46.978125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_15">
+      <!-- 0.75 -->
+      <g transform="translate(12.2 50.552344)scale(0.1 -0.1)">
+       <use xlink:href="#SimSun-30"/>
+       <use xlink:href="#SimSun-2e" x="50"/>
+       <use xlink:href="#SimSun-37" x="100"/>
+       <use xlink:href="#SimSun-35" x="150"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_9">
+     <g id="line2d_16">
+      <g>
+       <use xlink:href="#ma350930d78" x="39.2" y="21.778125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_16">
+      <!-- 1.00 -->
+      <g transform="translate(12.2 25.352344)scale(0.1 -0.1)">
+       <use xlink:href="#SimSun-31"/>
+       <use xlink:href="#SimSun-2e" x="50"/>
+       <use xlink:href="#SimSun-30" x="100"/>
+       <use xlink:href="#SimSun-30" x="150"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="LineCollection_1">
+    <path d="M 69.636364 122.578125 
+L 69.636364 21.778125 
+" clip-path="url(#p14b51058a6)" style="fill: none; stroke: #1f77b4; stroke-width: 1.5"/>
+    <path d="M 106.528926 122.578125 
+L 106.528926 180.676568 
+" clip-path="url(#p14b51058a6)" style="fill: none; stroke: #1f77b4; stroke-width: 1.5"/>
+    <path d="M 143.421488 122.578125 
+L 143.421488 108.226872 
+" clip-path="url(#p14b51058a6)" style="fill: none; stroke: #1f77b4; stroke-width: 1.5"/>
+    <path d="M 180.31405 122.578125 
+L 180.31405 118.0016 
+" clip-path="url(#p14b51058a6)" style="fill: none; stroke: #1f77b4; stroke-width: 1.5"/>
+    <path d="M 217.206612 122.578125 
+L 217.206612 130.655382 
+" clip-path="url(#p14b51058a6)" style="fill: none; stroke: #1f77b4; stroke-width: 1.5"/>
+    <path d="M 254.099174 122.578125 
+L 254.099174 94.905709 
+" clip-path="url(#p14b51058a6)" style="fill: none; stroke: #1f77b4; stroke-width: 1.5"/>
+    <path d="M 290.991736 122.578125 
+L 290.991736 169.025162 
+" clip-path="url(#p14b51058a6)" style="fill: none; stroke: #1f77b4; stroke-width: 1.5"/>
+    <path d="M 327.884298 122.578125 
+L 327.884298 88.314272 
+" clip-path="url(#p14b51058a6)" style="fill: none; stroke: #1f77b4; stroke-width: 1.5"/>
+    <path d="M 364.77686 122.578125 
+L 364.77686 134.503607 
+" clip-path="url(#p14b51058a6)" style="fill: none; stroke: #1f77b4; stroke-width: 1.5"/>
+    <path d="M 401.669421 122.578125 
+L 401.669421 130.163468 
+" clip-path="url(#p14b51058a6)" style="fill: none; stroke: #1f77b4; stroke-width: 1.5"/>
+    <path d="M 438.561983 122.578125 
+L 438.561983 107.297704 
+" clip-path="url(#p14b51058a6)" style="fill: none; stroke: #1f77b4; stroke-width: 1.5"/>
+    <path d="M 475.454545 122.578125 
+L 475.454545 141.500914 
+" clip-path="url(#p14b51058a6)" style="fill: none; stroke: #1f77b4; stroke-width: 1.5"/>
+    <path d="M 512.347107 122.578125 
+L 512.347107 111.025358 
+" clip-path="url(#p14b51058a6)" style="fill: none; stroke: #1f77b4; stroke-width: 1.5"/>
+    <path d="M 549.239669 122.578125 
+L 549.239669 131.221943 
+" clip-path="url(#p14b51058a6)" style="fill: none; stroke: #1f77b4; stroke-width: 1.5"/>
+    <path d="M 586.132231 122.578125 
+L 586.132231 120.445903 
+" clip-path="url(#p14b51058a6)" style="fill: none; stroke: #1f77b4; stroke-width: 1.5"/>
+    <path d="M 623.024793 122.578125 
+L 623.024793 121.084148 
+" clip-path="url(#p14b51058a6)" style="fill: none; stroke: #1f77b4; stroke-width: 1.5"/>
+    <path d="M 659.917355 122.578125 
+L 659.917355 124.60139 
+" clip-path="url(#p14b51058a6)" style="fill: none; stroke: #1f77b4; stroke-width: 1.5"/>
+   </g>
+   <g id="line2d_17">
+    <path d="M 39.2 122.578125 
+L 708.8 122.578125 
+" clip-path="url(#p14b51058a6)" style="fill: none; stroke: #1f77b4; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_18">
+    <defs>
+     <path id="mff683ffa90" d="M 0 2.5 
+C 0.663008 2.5 1.29895 2.236584 1.767767 1.767767 
+C 2.236584 1.29895 2.5 0.663008 2.5 0 
+C 2.5 -0.663008 2.236584 -1.29895 1.767767 -1.767767 
+C 1.29895 -2.236584 0.663008 -2.5 0 -2.5 
+C -0.663008 -2.5 -1.29895 -2.236584 -1.767767 -1.767767 
+C -2.236584 -1.29895 -2.5 -0.663008 -2.5 0 
+C -2.5 0.663008 -2.236584 1.29895 -1.767767 1.767767 
+C -1.29895 2.236584 -0.663008 2.5 0 2.5 
+z
+" style="stroke: #1f77b4"/>
+    </defs>
+    <g clip-path="url(#p14b51058a6)">
+     <use xlink:href="#mff683ffa90" x="69.636364" y="21.778125" style="fill: #1f77b4; stroke: #1f77b4"/>
+     <use xlink:href="#mff683ffa90" x="106.528926" y="180.676568" style="fill: #1f77b4; stroke: #1f77b4"/>
+     <use xlink:href="#mff683ffa90" x="143.421488" y="108.226872" style="fill: #1f77b4; stroke: #1f77b4"/>
+     <use xlink:href="#mff683ffa90" x="180.31405" y="118.0016" style="fill: #1f77b4; stroke: #1f77b4"/>
+     <use xlink:href="#mff683ffa90" x="217.206612" y="130.655382" style="fill: #1f77b4; stroke: #1f77b4"/>
+     <use xlink:href="#mff683ffa90" x="254.099174" y="94.905709" style="fill: #1f77b4; stroke: #1f77b4"/>
+     <use xlink:href="#mff683ffa90" x="290.991736" y="169.025162" style="fill: #1f77b4; stroke: #1f77b4"/>
+     <use xlink:href="#mff683ffa90" x="327.884298" y="88.314272" style="fill: #1f77b4; stroke: #1f77b4"/>
+     <use xlink:href="#mff683ffa90" x="364.77686" y="134.503607" style="fill: #1f77b4; stroke: #1f77b4"/>
+     <use xlink:href="#mff683ffa90" x="401.669421" y="130.163468" style="fill: #1f77b4; stroke: #1f77b4"/>
+     <use xlink:href="#mff683ffa90" x="438.561983" y="107.297704" style="fill: #1f77b4; stroke: #1f77b4"/>
+     <use xlink:href="#mff683ffa90" x="475.454545" y="141.500914" style="fill: #1f77b4; stroke: #1f77b4"/>
+     <use xlink:href="#mff683ffa90" x="512.347107" y="111.025358" style="fill: #1f77b4; stroke: #1f77b4"/>
+     <use xlink:href="#mff683ffa90" x="549.239669" y="131.221943" style="fill: #1f77b4; stroke: #1f77b4"/>
+     <use xlink:href="#mff683ffa90" x="586.132231" y="120.445903" style="fill: #1f77b4; stroke: #1f77b4"/>
+     <use xlink:href="#mff683ffa90" x="623.024793" y="121.084148" style="fill: #1f77b4; stroke: #1f77b4"/>
+     <use xlink:href="#mff683ffa90" x="659.917355" y="124.60139" style="fill: #1f77b4; stroke: #1f77b4"/>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 39.2 223.378125 
+L 39.2 21.778125 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 708.8 223.378125 
+L 708.8 21.778125 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 39.2 223.378125 
+L 708.8 223.378125 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 39.2 21.778125 
+L 708.8 21.778125 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_17">
+    <!-- Autocorrelation -->
+    <g transform="translate(329 15.778125)scale(0.12 -0.12)">
+     <defs>
+      <path id="SimSun-41" d="M 2025 1700 
+L 900 1700 
+L 675 750 
+Q 650 625 650 550 
+Q 650 450 687 350 
+Q 725 250 900 250 
+L 975 250 
+L 975 100 
+L 50 100 
+L 50 250 
+L 125 250 
+Q 225 250 300 312 
+Q 375 375 400 525 
+L 1375 4350 
+L 1750 4475 
+L 2700 525 
+Q 2750 375 2825 312 
+Q 2900 250 3000 250 
+L 3075 250 
+L 3075 100 
+L 2000 100 
+L 2000 250 
+L 2100 250 
+Q 2250 250 2275 312 
+Q 2300 375 2300 425 
+Q 2300 525 2275 600 
+L 2025 1700 
+z
+M 325 250 
+L 325 250 
+z
+M 575 250 
+L 575 250 
+z
+M 2350 250 
+L 2350 250 
+z
+M 2775 250 
+L 2775 250 
+z
+M 1500 3925 
+L 1475 3925 
+L 950 1850 
+L 2000 1850 
+L 1500 3925 
+z
+" transform="scale(0.015625)"/>
+      <path id="SimSun-75" d="M 1450 325 
+Q 1750 325 1962 475 
+Q 2175 625 2275 950 
+L 2275 2525 
+Q 2275 2625 2225 2687 
+Q 2175 2750 2050 2750 
+L 1900 2750 
+L 1900 2900 
+L 2050 2900 
+Q 2200 2900 2325 2925 
+Q 2450 2950 2575 3050 
+L 2625 3050 
+L 2625 600 
+Q 2625 500 2687 450 
+Q 2750 400 2850 400 
+L 3000 400 
+L 3000 250 
+L 2850 250 
+Q 2725 250 2600 212 
+Q 2475 175 2325 100 
+L 2275 100 
+L 2275 625 
+Q 2150 350 1900 212 
+Q 1650 75 1325 75 
+Q 925 75 725 300 
+Q 525 525 525 1025 
+L 525 2525 
+Q 525 2625 475 2687 
+Q 425 2750 300 2750 
+L 150 2750 
+L 150 2900 
+L 300 2900 
+Q 450 2900 575 2925 
+Q 700 2950 825 3050 
+L 875 3050 
+L 875 975 
+Q 875 625 1025 475 
+Q 1175 325 1450 325 
+z
+" transform="scale(0.015625)"/>
+      <path id="SimSun-74" d="M 1500 900 
+Q 1500 550 1625 425 
+Q 1750 300 2000 300 
+Q 2250 300 2400 462 
+Q 2550 625 2600 925 
+L 2725 875 
+Q 2675 525 2462 300 
+Q 2250 75 1900 75 
+Q 1525 75 1337 300 
+Q 1150 525 1150 1000 
+L 1150 2750 
+L 400 2750 
+L 400 2900 
+L 600 2900 
+Q 900 2900 1087 3087 
+Q 1275 3275 1325 3675 
+L 1350 3875 
+L 1500 3875 
+L 1500 2900 
+L 2500 2900 
+L 2500 2750 
+L 1500 2750 
+L 1500 900 
+z
+" transform="scale(0.015625)"/>
+      <path id="SimSun-6f" d="M 2900 1500 
+Q 2900 875 2525 462 
+Q 2150 50 1600 50 
+Q 1025 50 662 475 
+Q 300 900 300 1500 
+Q 300 2050 662 2500 
+Q 1025 2950 1600 2950 
+Q 2200 2950 2550 2500 
+Q 2900 2050 2900 1500 
+z
+M 700 1475 
+Q 700 825 962 512 
+Q 1225 200 1600 200 
+Q 2025 200 2262 537 
+Q 2500 875 2500 1475 
+Q 2500 2125 2237 2462 
+Q 1975 2800 1600 2800 
+Q 1250 2800 975 2462 
+Q 700 2125 700 1475 
+z
+" transform="scale(0.015625)"/>
+      <path id="SimSun-63" d="M 2150 2225 
+Q 2150 2300 2175 2325 
+Q 2175 2350 2200 2425 
+Q 2225 2525 2100 2662 
+Q 1975 2800 1675 2800 
+Q 1300 2800 1037 2437 
+Q 775 2075 775 1475 
+Q 775 925 1000 587 
+Q 1225 250 1750 250 
+Q 2100 250 2337 475 
+Q 2575 700 2675 1000 
+L 2800 950 
+Q 2700 575 2425 312 
+Q 2150 50 1675 50 
+Q 1075 50 725 425 
+Q 375 800 375 1500 
+Q 375 2125 750 2537 
+Q 1125 2950 1725 2950 
+Q 2150 2950 2387 2725 
+Q 2625 2500 2625 2275 
+Q 2625 2125 2562 2062 
+Q 2500 2000 2375 2000 
+Q 2275 2000 2212 2062 
+Q 2150 2125 2150 2225 
+z
+" transform="scale(0.015625)"/>
+      <path id="SimSun-72" d="M 1275 2125 
+Q 1525 2525 1812 2737 
+Q 2100 2950 2400 2950 
+Q 2650 2950 2787 2837 
+Q 2925 2725 2925 2575 
+Q 2925 2450 2862 2375 
+Q 2800 2300 2675 2300 
+Q 2550 2300 2487 2375 
+Q 2425 2450 2450 2575 
+Q 2450 2650 2425 2700 
+Q 2400 2750 2275 2750 
+Q 2075 2750 1787 2500 
+Q 1500 2250 1275 1800 
+L 1275 450 
+Q 1275 350 1337 300 
+Q 1400 250 1500 250 
+L 2050 250 
+L 2050 100 
+L 200 100 
+L 200 250 
+L 700 250 
+Q 825 250 875 300 
+Q 925 350 925 450 
+L 925 2525 
+Q 925 2625 875 2687 
+Q 825 2750 700 2750 
+L 225 2750 
+L 225 2900 
+L 425 2900 
+Q 600 2900 837 2937 
+Q 1075 2975 1200 3025 
+L 1275 3025 
+L 1275 2125 
+z
+" transform="scale(0.015625)"/>
+      <path id="SimSun-65" d="M 2400 1650 
+Q 2425 2200 2212 2487 
+Q 2000 2775 1650 2775 
+Q 1275 2775 1037 2475 
+Q 800 2175 800 1650 
+L 2400 1650 
+z
+M 800 1500 
+Q 800 825 1062 537 
+Q 1325 250 1750 250 
+Q 2075 250 2300 437 
+Q 2525 625 2625 900 
+L 2750 850 
+Q 2675 575 2412 312 
+Q 2150 50 1700 50 
+Q 1125 50 762 425 
+Q 400 800 400 1500 
+Q 400 2125 762 2537 
+Q 1125 2950 1650 2950 
+Q 2125 2950 2475 2625 
+Q 2825 2300 2825 1500 
+L 800 1500 
+z
+" transform="scale(0.015625)"/>
+      <path id="SimSun-6c" d="M 925 4375 
+Q 1150 4375 1350 4425 
+Q 1550 4475 1725 4575 
+L 1775 4575 
+L 1775 450 
+Q 1775 350 1837 300 
+Q 1900 250 2000 250 
+L 2575 250 
+L 2575 100 
+L 625 100 
+L 625 250 
+L 1200 250 
+Q 1325 250 1375 300 
+Q 1425 350 1425 450 
+L 1425 4025 
+Q 1425 4125 1375 4175 
+Q 1325 4225 1200 4225 
+L 650 4225 
+L 650 4375 
+L 925 4375 
+z
+" transform="scale(0.015625)"/>
+      <path id="SimSun-61" d="M 1225 75 
+Q 775 75 525 287 
+Q 275 500 275 775 
+Q 275 1225 662 1512 
+Q 1050 1800 2200 1925 
+L 2200 2225 
+Q 2200 2475 2087 2637 
+Q 1975 2800 1575 2800 
+Q 1150 2800 975 2662 
+Q 800 2525 850 2375 
+Q 875 2325 875 2275 
+Q 875 2225 837 2150 
+Q 800 2075 650 2075 
+Q 550 2075 487 2137 
+Q 425 2200 425 2325 
+Q 425 2550 750 2750 
+Q 1075 2950 1550 2950 
+Q 2050 2950 2300 2762 
+Q 2550 2575 2550 2225 
+L 2550 575 
+Q 2550 375 2587 337 
+Q 2625 300 2725 300 
+Q 2850 300 2900 412 
+Q 2950 525 2950 725 
+L 3075 725 
+Q 3075 375 2950 237 
+Q 2825 100 2625 100 
+Q 2450 100 2350 175 
+Q 2250 250 2200 425 
+Q 1950 250 1737 162 
+Q 1525 75 1225 75 
+z
+M 700 850 
+Q 700 625 837 437 
+Q 975 250 1275 250 
+Q 1500 250 1725 337 
+Q 1950 425 2200 600 
+L 2200 1775 
+Q 1350 1675 1025 1437 
+Q 700 1200 700 850 
+z
+" transform="scale(0.015625)"/>
+      <path id="SimSun-69" d="M 1425 2525 
+Q 1425 2625 1375 2687 
+Q 1325 2750 1200 2750 
+L 675 2750 
+L 675 2900 
+L 925 2900 
+Q 1150 2900 1350 2937 
+Q 1550 2975 1725 3075 
+L 1775 3075 
+L 1775 450 
+Q 1775 350 1837 300 
+Q 1900 250 2000 250 
+L 2525 250 
+L 2525 100 
+L 675 100 
+L 675 250 
+L 1200 250 
+Q 1325 250 1375 300 
+Q 1425 350 1425 450 
+L 1425 2525 
+z
+M 1725 3025 
+L 1725 3025 
+z
+M 1625 4425 
+Q 1750 4425 1850 4337 
+Q 1950 4250 1950 4125 
+Q 1950 4000 1850 3900 
+Q 1750 3800 1625 3800 
+Q 1500 3800 1400 3900 
+Q 1300 4000 1300 4125 
+Q 1300 4250 1400 4337 
+Q 1500 4425 1625 4425 
+z
+" transform="scale(0.015625)"/>
+      <path id="SimSun-6e" d="M 200 100 
+L 200 250 
+L 325 250 
+Q 450 250 500 300 
+Q 550 350 550 450 
+L 550 2600 
+Q 550 2675 525 2712 
+Q 500 2750 425 2750 
+L 225 2750 
+L 225 2900 
+L 400 2900 
+Q 525 2900 637 2925 
+Q 750 2950 850 3025 
+L 900 3025 
+L 900 2450 
+Q 1125 2700 1350 2825 
+Q 1575 2950 1825 2950 
+Q 2250 2950 2450 2725 
+Q 2650 2500 2650 2050 
+L 2650 450 
+Q 2650 350 2712 300 
+Q 2775 250 2875 250 
+L 3000 250 
+L 3000 100 
+L 1950 100 
+L 1950 250 
+L 2075 250 
+Q 2200 250 2250 300 
+Q 2300 350 2300 450 
+L 2300 2125 
+Q 2300 2425 2175 2587 
+Q 2050 2750 1800 2750 
+Q 1575 2750 1337 2600 
+Q 1100 2450 900 2175 
+L 900 450 
+Q 900 350 962 300 
+Q 1025 250 1125 250 
+L 1250 250 
+L 1250 100 
+L 200 100 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#SimSun-41"/>
+     <use xlink:href="#SimSun-75" x="50"/>
+     <use xlink:href="#SimSun-74" x="100"/>
+     <use xlink:href="#SimSun-6f" x="150"/>
+     <use xlink:href="#SimSun-63" x="200"/>
+     <use xlink:href="#SimSun-6f" x="250"/>
+     <use xlink:href="#SimSun-72" x="300"/>
+     <use xlink:href="#SimSun-72" x="350"/>
+     <use xlink:href="#SimSun-65" x="400"/>
+     <use xlink:href="#SimSun-6c" x="450"/>
+     <use xlink:href="#SimSun-61" x="500"/>
+     <use xlink:href="#SimSun-74" x="550"/>
+     <use xlink:href="#SimSun-69" x="600"/>
+     <use xlink:href="#SimSun-6f" x="650"/>
+     <use xlink:href="#SimSun-6e" x="700"/>
+    </g>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_7">
+    <path d="M 39.2 465.298125 
+L 708.8 465.298125 
+L 708.8 263.698125 
+L 39.2 263.698125 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="PolyCollection_2">
+    <path d="M 110.218182 316.581727 
+L 110.218182 412.414523 
+L 231.963636 412.414523 
+L 313.127273 412.414523 
+L 394.290909 412.414523 
+L 475.454545 412.414523 
+L 556.618182 412.414523 
+L 678.363636 412.414523 
+L 678.363636 316.581727 
+L 678.363636 316.581727 
+L 556.618182 316.581727 
+L 475.454545 316.581727 
+L 394.290909 316.581727 
+L 313.127273 316.581727 
+L 231.963636 316.581727 
+L 110.218182 316.581727 
+z
+" clip-path="url(#p4122c936c4)" style="fill: #1f77b4; fill-opacity: 0.25"/>
+   </g>
+   <g id="matplotlib.axis_3">
+    <g id="xtick_8">
+     <g id="line2d_19">
+      <g>
+       <use xlink:href="#maf985933e5" x="69.636364" y="465.298125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_18">
+      <!-- 0 -->
+      <g transform="translate(67.136364 479.446562)scale(0.1 -0.1)">
+       <use xlink:href="#SimSun-30"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_9">
+     <g id="line2d_20">
+      <g>
+       <use xlink:href="#maf985933e5" x="150.8" y="465.298125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_19">
+      <!-- 1 -->
+      <g transform="translate(148.3 479.446562)scale(0.1 -0.1)">
+       <use xlink:href="#SimSun-31"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_10">
+     <g id="line2d_21">
+      <g>
+       <use xlink:href="#maf985933e5" x="231.963636" y="465.298125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_20">
+      <!-- 2 -->
+      <g transform="translate(229.463636 479.446562)scale(0.1 -0.1)">
+       <use xlink:href="#SimSun-32"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_11">
+     <g id="line2d_22">
+      <g>
+       <use xlink:href="#maf985933e5" x="313.127273" y="465.298125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_21">
+      <!-- 3 -->
+      <g transform="translate(310.627273 479.446562)scale(0.1 -0.1)">
+       <defs>
+        <path id="SimSun-33" d="M 2800 1250 
+Q 2800 775 2450 412 
+Q 2100 50 1475 50 
+Q 1025 50 700 300 
+Q 375 550 375 875 
+Q 375 1025 475 1137 
+Q 575 1250 675 1250 
+Q 825 1250 887 1137 
+Q 950 1025 950 950 
+Q 950 825 900 750 
+Q 850 650 850 575 
+Q 850 425 1037 325 
+Q 1225 225 1450 225 
+Q 1900 225 2125 487 
+Q 2350 750 2350 1300 
+Q 2350 1750 2112 2025 
+Q 1875 2300 1225 2300 
+L 1225 2475 
+Q 1725 2475 1962 2712 
+Q 2200 2950 2200 3375 
+Q 2200 3725 2012 3987 
+Q 1825 4250 1425 4250 
+Q 1250 4250 1050 4162 
+Q 850 4075 850 3875 
+Q 850 3675 900 3625 
+Q 950 3575 950 3500 
+Q 950 3375 900 3300 
+Q 850 3225 725 3225 
+Q 625 3225 537 3300 
+Q 450 3375 450 3575 
+Q 450 3950 775 4187 
+Q 1100 4425 1525 4425 
+Q 2025 4425 2325 4112 
+Q 2625 3800 2625 3450 
+Q 2625 3075 2437 2812 
+Q 2250 2550 1850 2425 
+Q 2400 2225 2600 1900 
+Q 2800 1575 2800 1250 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#SimSun-33"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_12">
+     <g id="line2d_23">
+      <g>
+       <use xlink:href="#maf985933e5" x="394.290909" y="465.298125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_22">
+      <!-- 4 -->
+      <g transform="translate(391.790909 479.446562)scale(0.1 -0.1)">
+       <defs>
+        <path id="SimSun-34" d="M 2300 575 
+Q 2300 400 2400 325 
+Q 2500 250 2675 250 
+L 2900 250 
+L 2900 100 
+L 1250 100 
+L 1250 250 
+L 1525 250 
+Q 1725 250 1812 325 
+Q 1900 400 1900 575 
+L 1900 1400 
+L 225 1400 
+L 225 1525 
+L 2050 4425 
+L 2300 4425 
+L 2300 1550 
+L 2975 1550 
+L 2975 1400 
+L 2300 1400 
+L 2300 575 
+z
+M 1875 3800 
+L 450 1550 
+L 1900 1550 
+L 1900 3800 
+L 1875 3800 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#SimSun-34"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_13">
+     <g id="line2d_24">
+      <g>
+       <use xlink:href="#maf985933e5" x="475.454545" y="465.298125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_23">
+      <!-- 5 -->
+      <g transform="translate(472.954545 479.446562)scale(0.1 -0.1)">
+       <use xlink:href="#SimSun-35"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_14">
+     <g id="line2d_25">
+      <g>
+       <use xlink:href="#maf985933e5" x="556.618182" y="465.298125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_24">
+      <!-- 6 -->
+      <g transform="translate(554.118182 479.446562)scale(0.1 -0.1)">
+       <defs>
+        <path id="SimSun-36" d="M 775 1800 
+Q 775 1050 1037 637 
+Q 1300 225 1675 225 
+Q 2050 225 2250 500 
+Q 2450 775 2450 1525 
+Q 2450 2025 2237 2300 
+Q 2025 2575 1725 2575 
+Q 1450 2575 1212 2412 
+Q 975 2250 775 1800 
+z
+M 1750 2825 
+Q 2350 2825 2612 2425 
+Q 2875 2025 2875 1525 
+Q 2875 775 2512 412 
+Q 2150 50 1675 50 
+Q 1000 50 650 562 
+Q 300 1075 300 2050 
+Q 300 3200 725 3812 
+Q 1150 4425 1875 4425 
+Q 2225 4425 2437 4225 
+Q 2650 4025 2650 3875 
+Q 2650 3725 2587 3650 
+Q 2525 3575 2375 3575 
+Q 2250 3575 2187 3637 
+Q 2125 3700 2125 3825 
+Q 2125 3875 2150 3925 
+Q 2150 3975 2150 4025 
+Q 2150 4125 2075 4187 
+Q 2000 4250 1800 4250 
+Q 1375 4250 1075 3862 
+Q 775 3475 775 2175 
+Q 925 2500 1187 2662 
+Q 1450 2825 1750 2825 
+z
+" transform="scale(0.015625)"/>
+       </defs>
+       <use xlink:href="#SimSun-36"/>
+      </g>
+     </g>
+    </g>
+    <g id="xtick_15">
+     <g id="line2d_26">
+      <g>
+       <use xlink:href="#maf985933e5" x="637.781818" y="465.298125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_25">
+      <!-- 7 -->
+      <g transform="translate(635.281818 479.446562)scale(0.1 -0.1)">
+       <use xlink:href="#SimSun-37"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_4">
+    <g id="ytick_10">
+     <g id="line2d_27">
+      <g>
+       <use xlink:href="#ma350930d78" x="39.2" y="465.298125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_26">
+      <!-- -1.00 -->
+      <g transform="translate(7.2 468.872344)scale(0.1 -0.1)">
+       <use xlink:href="#SimSun-2d"/>
+       <use xlink:href="#SimSun-31" x="50"/>
+       <use xlink:href="#SimSun-2e" x="100"/>
+       <use xlink:href="#SimSun-30" x="150"/>
+       <use xlink:href="#SimSun-30" x="200"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_11">
+     <g id="line2d_28">
+      <g>
+       <use xlink:href="#ma350930d78" x="39.2" y="440.098125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_27">
+      <!-- -0.75 -->
+      <g transform="translate(7.2 443.672344)scale(0.1 -0.1)">
+       <use xlink:href="#SimSun-2d"/>
+       <use xlink:href="#SimSun-30" x="50"/>
+       <use xlink:href="#SimSun-2e" x="100"/>
+       <use xlink:href="#SimSun-37" x="150"/>
+       <use xlink:href="#SimSun-35" x="200"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_12">
+     <g id="line2d_29">
+      <g>
+       <use xlink:href="#ma350930d78" x="39.2" y="414.898125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_28">
+      <!-- -0.50 -->
+      <g transform="translate(7.2 418.472344)scale(0.1 -0.1)">
+       <use xlink:href="#SimSun-2d"/>
+       <use xlink:href="#SimSun-30" x="50"/>
+       <use xlink:href="#SimSun-2e" x="100"/>
+       <use xlink:href="#SimSun-35" x="150"/>
+       <use xlink:href="#SimSun-30" x="200"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_13">
+     <g id="line2d_30">
+      <g>
+       <use xlink:href="#ma350930d78" x="39.2" y="389.698125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_29">
+      <!-- -0.25 -->
+      <g transform="translate(7.2 393.272344)scale(0.1 -0.1)">
+       <use xlink:href="#SimSun-2d"/>
+       <use xlink:href="#SimSun-30" x="50"/>
+       <use xlink:href="#SimSun-2e" x="100"/>
+       <use xlink:href="#SimSun-32" x="150"/>
+       <use xlink:href="#SimSun-35" x="200"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_14">
+     <g id="line2d_31">
+      <g>
+       <use xlink:href="#ma350930d78" x="39.2" y="364.498125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_30">
+      <!-- 0.00 -->
+      <g transform="translate(12.2 368.072344)scale(0.1 -0.1)">
+       <use xlink:href="#SimSun-30"/>
+       <use xlink:href="#SimSun-2e" x="50"/>
+       <use xlink:href="#SimSun-30" x="100"/>
+       <use xlink:href="#SimSun-30" x="150"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_15">
+     <g id="line2d_32">
+      <g>
+       <use xlink:href="#ma350930d78" x="39.2" y="339.298125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_31">
+      <!-- 0.25 -->
+      <g transform="translate(12.2 342.872344)scale(0.1 -0.1)">
+       <use xlink:href="#SimSun-30"/>
+       <use xlink:href="#SimSun-2e" x="50"/>
+       <use xlink:href="#SimSun-32" x="100"/>
+       <use xlink:href="#SimSun-35" x="150"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_16">
+     <g id="line2d_33">
+      <g>
+       <use xlink:href="#ma350930d78" x="39.2" y="314.098125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_32">
+      <!-- 0.50 -->
+      <g transform="translate(12.2 317.672344)scale(0.1 -0.1)">
+       <use xlink:href="#SimSun-30"/>
+       <use xlink:href="#SimSun-2e" x="50"/>
+       <use xlink:href="#SimSun-35" x="100"/>
+       <use xlink:href="#SimSun-30" x="150"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_17">
+     <g id="line2d_34">
+      <g>
+       <use xlink:href="#ma350930d78" x="39.2" y="288.898125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_33">
+      <!-- 0.75 -->
+      <g transform="translate(12.2 292.472344)scale(0.1 -0.1)">
+       <use xlink:href="#SimSun-30"/>
+       <use xlink:href="#SimSun-2e" x="50"/>
+       <use xlink:href="#SimSun-37" x="100"/>
+       <use xlink:href="#SimSun-35" x="150"/>
+      </g>
+     </g>
+    </g>
+    <g id="ytick_18">
+     <g id="line2d_35">
+      <g>
+       <use xlink:href="#ma350930d78" x="39.2" y="263.698125" style="stroke: #000000; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_34">
+      <!-- 1.00 -->
+      <g transform="translate(12.2 267.272344)scale(0.1 -0.1)">
+       <use xlink:href="#SimSun-31"/>
+       <use xlink:href="#SimSun-2e" x="50"/>
+       <use xlink:href="#SimSun-30" x="100"/>
+       <use xlink:href="#SimSun-30" x="150"/>
+      </g>
+     </g>
+    </g>
+   </g>
+   <g id="LineCollection_2">
+    <path d="M 69.636364 364.498125 
+L 69.636364 263.698125 
+" clip-path="url(#p4122c936c4)" style="fill: none; stroke: #1f77b4; stroke-width: 1.5"/>
+    <path d="M 150.8 364.498125 
+L 150.8 422.596568 
+" clip-path="url(#p4122c936c4)" style="fill: none; stroke: #1f77b4; stroke-width: 1.5"/>
+    <path d="M 231.963636 364.498125 
+L 231.963636 393.152405 
+" clip-path="url(#p4122c936c4)" style="fill: none; stroke: #1f77b4; stroke-width: 1.5"/>
+    <path d="M 313.127273 364.498125 
+L 313.127273 366.642007 
+" clip-path="url(#p4122c936c4)" style="fill: none; stroke: #1f77b4; stroke-width: 1.5"/>
+    <path d="M 394.290909 364.498125 
+L 394.290909 367.092991 
+" clip-path="url(#p4122c936c4)" style="fill: none; stroke: #1f77b4; stroke-width: 1.5"/>
+    <path d="M 475.454545 364.498125 
+L 475.454545 328.399208 
+" clip-path="url(#p4122c936c4)" style="fill: none; stroke: #1f77b4; stroke-width: 1.5"/>
+    <path d="M 556.618182 364.498125 
+L 556.618182 385.800145 
+" clip-path="url(#p4122c936c4)" style="fill: none; stroke: #1f77b4; stroke-width: 1.5"/>
+    <path d="M 637.781818 364.498125 
+L 637.781818 374.484901 
+" clip-path="url(#p4122c936c4)" style="fill: none; stroke: #1f77b4; stroke-width: 1.5"/>
+   </g>
+   <g id="line2d_36">
+    <path d="M 39.2 364.498125 
+L 708.8 364.498125 
+" clip-path="url(#p4122c936c4)" style="fill: none; stroke: #1f77b4; stroke-width: 1.5; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_37">
+    <g clip-path="url(#p4122c936c4)">
+     <use xlink:href="#mff683ffa90" x="69.636364" y="263.698125" style="fill: #1f77b4; stroke: #1f77b4"/>
+     <use xlink:href="#mff683ffa90" x="150.8" y="422.596568" style="fill: #1f77b4; stroke: #1f77b4"/>
+     <use xlink:href="#mff683ffa90" x="231.963636" y="393.152405" style="fill: #1f77b4; stroke: #1f77b4"/>
+     <use xlink:href="#mff683ffa90" x="313.127273" y="366.642007" style="fill: #1f77b4; stroke: #1f77b4"/>
+     <use xlink:href="#mff683ffa90" x="394.290909" y="367.092991" style="fill: #1f77b4; stroke: #1f77b4"/>
+     <use xlink:href="#mff683ffa90" x="475.454545" y="328.399208" style="fill: #1f77b4; stroke: #1f77b4"/>
+     <use xlink:href="#mff683ffa90" x="556.618182" y="385.800145" style="fill: #1f77b4; stroke: #1f77b4"/>
+     <use xlink:href="#mff683ffa90" x="637.781818" y="374.484901" style="fill: #1f77b4; stroke: #1f77b4"/>
+    </g>
+   </g>
+   <g id="patch_8">
+    <path d="M 39.2 465.298125 
+L 39.2 263.698125 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 708.8 465.298125 
+L 708.8 263.698125 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 39.2 465.298125 
+L 708.8 465.298125 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 39.2 263.698125 
+L 708.8 263.698125 
+" style="fill: none; stroke: #000000; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_35">
+    <!-- Partial Autocorrelation -->
+    <g transform="translate(305 257.698125)scale(0.12 -0.12)">
+     <defs>
+      <path id="SimSun-50" d="M 950 2100 
+L 950 450 
+Q 950 350 1012 300 
+Q 1075 250 1175 250 
+L 1350 250 
+L 1350 100 
+L 150 100 
+L 150 250 
+L 325 250 
+Q 450 250 500 300 
+Q 550 350 550 450 
+L 550 4025 
+Q 550 4125 500 4175 
+Q 450 4225 325 4225 
+L 175 4225 
+L 175 4375 
+L 1650 4375 
+Q 2275 4375 2612 4062 
+Q 2950 3750 2950 3275 
+Q 2950 2700 2587 2400 
+Q 2225 2100 1725 2100 
+L 950 2100 
+z
+M 1575 2250 
+Q 1950 2250 2237 2475 
+Q 2525 2700 2525 3250 
+Q 2525 3750 2287 3987 
+Q 2050 4225 1525 4225 
+L 1175 4225 
+Q 1075 4225 1012 4175 
+Q 950 4125 950 4025 
+L 950 2250 
+L 1575 2250 
+z
+" transform="scale(0.015625)"/>
+      <path id="SimSun-20" d="M 0 0 
+Q 0 0 0 0 
+z
+" transform="scale(0.015625)"/>
+     </defs>
+     <use xlink:href="#SimSun-50"/>
+     <use xlink:href="#SimSun-61" x="50"/>
+     <use xlink:href="#SimSun-72" x="100"/>
+     <use xlink:href="#SimSun-74" x="150"/>
+     <use xlink:href="#SimSun-69" x="200"/>
+     <use xlink:href="#SimSun-61" x="250"/>
+     <use xlink:href="#SimSun-6c" x="300"/>
+     <use xlink:href="#SimSun-20" x="350"/>
+     <use xlink:href="#SimSun-41" x="400"/>
+     <use xlink:href="#SimSun-75" x="450"/>
+     <use xlink:href="#SimSun-74" x="500"/>
+     <use xlink:href="#SimSun-6f" x="550"/>
+     <use xlink:href="#SimSun-63" x="600"/>
+     <use xlink:href="#SimSun-6f" x="650"/>
+     <use xlink:href="#SimSun-72" x="700"/>
+     <use xlink:href="#SimSun-72" x="750"/>
+     <use xlink:href="#SimSun-65" x="800"/>
+     <use xlink:href="#SimSun-6c" x="850"/>
+     <use xlink:href="#SimSun-61" x="900"/>
+     <use xlink:href="#SimSun-74" x="950"/>
+     <use xlink:href="#SimSun-69" x="1000"/>
+     <use xlink:href="#SimSun-6f" x="1050"/>
+     <use xlink:href="#SimSun-6e" x="1100"/>
+    </g>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p14b51058a6">
+   <rect x="39.2" y="21.778125" width="669.6" height="201.6"/>
+  </clipPath>
+  <clipPath id="p4122c936c4">
+   <rect x="39.2" y="263.698125" width="669.6" height="201.6"/>
+  </clipPath>
+ </defs>
+</svg>
